@@ -6,13 +6,13 @@
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyBnrsfQQEkdvKjl_0jBm8mEqGRvOo6XRrU",
-  authDomain: "makrl4.firebaseapp.com",
-  projectId: "makrl4",
-  storageBucket: "makrl4.firebasestorage.app",
-  messagingSenderId: "121155716124",
-  appId: "1:121155716124:web:b5c713c0dc454424da8bd9",
-  measurementId: "G-7FJD9HZDMX"
+  apiKey: "AIzaSyCjyukkGqIhRg4twCNxnb0XZ9R_v_R26Zo",
+  authDomain: "capcaraple01.firebaseapp.com",
+  projectId: "capcaraple01",
+  storageBucket: "capcaraple01.firebasestorage.app",
+  messagingSenderId: "332115672127",
+  appId: "1:332115672127:web:f0dce3d8eb52f8e4850c8a",
+  measurementId: "G-DPZW5JXNRB"
 };
 
 // Initialize Firebase
